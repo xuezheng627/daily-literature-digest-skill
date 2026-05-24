@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Literature Digest"
+  short_description: "Set up daily AI literature digests from research keywords."
+  default_prompt: "Use $daily-literature-digest to create a daily AI literature digest automation for my research keywords."
