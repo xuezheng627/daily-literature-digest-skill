@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+
+# Local user configs and generated digest data
+daily-literature-digest.config.json
+daily-literature-digests/
+
+# Full-text follow-up artifacts can contain private access/session traces
+*.pdf
+*.html
+*.htm
+*.docx
+*.csv
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
